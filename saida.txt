@@ -1,0 +1,34 @@
+ab+c+;
++a+bc;
+
+bc+a+;
++b+ca;
+
+acb-+;
++-cba;
+
+Erro Sintatico
+
+Erro Sintatico
+
+Erro Lexico
+
+25+6*;
++25*6;
+
+29+;
++29;
+
+Erro Sintatico
+
+Erro Sintatico
+
+81-42+*;
+-81*+42;
+
+81-42+*;
+-81*+42;
+
+598+46**7+*;
+*+98**465+7;
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1423550038 source:c:\users\mateus\documents\cc\2\algoritmo e estrutura de dados 1 - aed\listas\projeto aed\lexim\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ll.h"
+
+1423547904 c:\users\mateus\documents\cc\2\algoritmo e estrutura de dados 1 - aed\listas\projeto aed\lexim\ll.h
+
+1423553222 source:c:\users\mateus\documents\cc\2\algoritmo e estrutura de dados 1 - aed\listas\projeto aed\lexim\ll.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ll.h"
+
+1423532908 source:c:\users\mateus\downloads\lexim-2015-02-11\lexim\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ll.h"
+
+1423547312 c:\users\mateus\downloads\lexim-2015-02-11\lexim\ll.h
+
